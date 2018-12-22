@@ -18,11 +18,11 @@ Today is my cat's 8th birthday! We got her when she just turned 6, so it has bee
   <figcaption>A flattering picture of my cat</figcaption>
 </figure>
 
-It is also a little over 2 years since I graduated from my engineering program and started my first full-time as an applied scientist; and I noticed large changes in my mindset in how I view learning.
+It is also a little over 2 years since I graduated from my engineering program and started my first full-time job as an applied scientist; and I noticed large changes in my mindset in how I view learning.
 
 The biggest change was that there was a natural yearning to read and learn; especially when there is no pressure of GPA and taking 4-5 tough classes _at once_ (usually higher-level math, an electrical/computer engineering course, a computer science course, and a general education course). Some people definitely have the right mindset in school where they take their time and enjoy the subjects they are taking without worrying much about what result or payoff will be. For me, and for most others I have met in my very intense engineering program, the primary driver of doing well in school was to do well after school. I feel now that this is just a recipe for hardship.
 <br><br>
-Unfortunately, being better at math wasn't about seeing all the cool things that math could help you _see_. It was more the chain of:
+Learning experiences in math were espeically degraded due to this mindset. Unfortunately, being better at math wasn't about seeing all the cool things that math could help you _see_. It was more the chain of:
 
 <center>Better test scores -> better gpa -> more coveted job -> better Facebook status at the end of 4 years -> ???</center>
 <br>
@@ -32,9 +32,9 @@ I also noticed that many of my peers and I had at least some amount of math anxi
 
 Does anxiety in a subject necessarily mean that you are bad at the subject? Clearly no, or else I wouldn't be in applied science and I imagine many engineers wouldn't even be able to graduate. It seems to me anxiety about a subject doesn't prevent you from using the learnings from that subject to get the job done; however, it does, sadly, prevent you from enjoying it and seeing all the amazing things about it.
 
-An interesting study about [math anxiety in engineering freshmen].
+Here is an interesting study about [math anxiety in engineering freshmen].
 
-Back to the present; now that I have this natural desire to learn for the sake of learning it was time to set aside regrets about _not learning in the best possible way in a place dedicated to learning_ and try to figure out how I can best learn some stuff I probably missed out on due to a bad mindset. How I can best learn some stuff __and enjoy it__.
+Back to the present; now that I have this natural (organic?) desire to learn for the sake of learning it was time to set aside regrets about _not learning in the best possible way in a place dedicated to learning_ and try to figure out how I can best learn some stuff I probably missed out on due to a bad mindset. How I can best learn some stuff __and enjoy it__.
 
 
 This leads me to the second big change in how I viewed learning: if learning something is not time critical (and unless 
@@ -47,21 +47,26 @@ have context, you definitely won't care and you won't be motivated to read a _co
 
 Better first to find a lighter introduction that is written for an audience less informed on the subject. People might think they are above pop. sci and pop. history books, but they are an excellent starting point for someone just wanting to learn and enjoy a new topic without the stress. 
 
-I feel this same principle can be applied to STEM topics. In my case, when I took linear algebra in school, I did my homework, got good grades on the exams, and knew enough linear algebra to do machine learning. But what exactly _is_ an eigenvector? It's that thing you can use for SVD and to solve some differential equations right? Sure, but can you tell me what is cool about it? 
+I feel this same principle can be applied to STEM topics. In my case, when I took linear algebra in school, I did my homework, got good grades on the exams, and knew enough linear algebra to do machine learning. But what exactly _is_ an eigenvector? It's that thing you can use for SVD and to solve some differential equations right? Sure, but can you tell me what is cool about it?
 
-I feel that most schools don't take the time to answer that question, and it unfortunately falls on the students to take initiative to figure out why something is cool. And I wouldn't count on a student doing that when they already have a ton of other work they need to finish before their next exam.
-
-Maybe next time you try to learn a math topic you'll first try to answer the question: what is cool about this topic? It doesn't hve to apply to real life either; it can be totally abstract. As long as you think it is cool, it doesn't matter. Personally, for linear algebra, I thought it was cool when I watched [3Blue1Brown's excellent, short series on linear algebra].
-
-I watched that series about a year after I started working, and I thought the way he explained linear algebra was so cool that I also wanted to be able to explain it like that. Like Feynman said, you don't understand something until you can explain it simply. He also said "Hell, if I could explain it to the average person, it wouldn't have been worth the Nobel prize"; but I think that for the vast majority of things we can learn, we should be able to tell the average person at least _why it is cool_.
+Personally, for linear algebra, [3Blue1Brown's excellent, short series on linear algebra] opened my eyes to the _coolness_ of the subject. I watched that series about a year after I started working, and I thought the way he explained linear algebra was so cool that I also wanted to be able to explain it like that. 
 
 <figure style="float: right;margin-left: 10px;margin-top: 7px; width: 50%; height: auto; text-align:center;">
   <img src="https://i.stack.imgur.com/PskMY.gif" alt="axis of rotation gif"/>
   <figcaption>Three different rotations applied with 3 different eigenvectors</figcaption>
 </figure>
 
-Most average people don't care about what an eigenvector is. Most above-average people don't care about what an eigenvector is. But my trying to re-learn linear algebra and making it cool in my head, I found that I can make almost anyone think an eigenvector is cool without using any "math"...even if for just one moment. I take something I have in my hand, rotate it, and show them how all but one vector is constantly changing when I apply a 'rotation matrix'. It is trivial, and it is just the tip of the iceberg, but it is very satisfying to see someone with no background get why you think that thing is cool. And it is usually more than enough motivation to keep leanring more, and keep going deeper.
-<br><br><br>
+Most average people don't care about what an eigenvector is. Most above-average people don't care about what an eigenvector is. But by trying to re-learn linear algebra and making it cool in my own head, I found that I can make almost anyone think an eigenvector is cool without using any "math"...even if for just one moment. I take something I have in my hand, rotate it, and show them how all but one vector is changing when I apply a 'rotation matrix'. It is trivial, and it is just the tip of the iceberg, but it is very satisfying to see someone with no background get why you think that thing is cool. And it is usually more than enough motivation to keep leanring more, and keep going deeper.
+
+
+I feel that most education systems don't take the time to answer that question, and it unfortunately falls on the students to take initiative to figure out why something is cool. And I wouldn't count on a student doing that when they already have a ton of other work they need to finish before their next exam.
+
+Maybe next time you try to learn a topic (math or otherwise) you'll first try to answer the question: __what is cool about this topic?__ It doesn't have to apply to real life either; it can be totally abstract. As long as you think it is cool, _that is all the motivation that is needed_.
+
+Like Feynman said, you don't understand something until you can explain it simply. He also said "Hell, if I could explain it to the average person, it wouldn't have been worth the Nobel prize"; but I think that for the vast majority of things we can learn, we should be able to tell the average person at least _why it is cool_.
+
+
+<br>
 # __Sources__
 1. Math Anxiety In Engineering Freshman paper:<br>https://www.sciencedirect.com/science/article/pii/S1877042810021713
 2. 3Blue1Brown's youtube channel:<br>https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw

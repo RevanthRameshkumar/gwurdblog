@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
+My name is Rev, and I'm an applied scientist primarily interested in NLP, math, and learning.
 
-My name is Rev, and I'm an applied scientist primarily interested in machine learning, mathematics, and _learning_.
-
-Please feel free to contact me via twitter [@GwurdDotCom]!
-
-[@GwurdDotCom]: https://twitter.com/GwurdDotCom
+Please feel free to contact me via twitter [@GwurdDotCom](https://twitter.com/GwurdDotCom)!

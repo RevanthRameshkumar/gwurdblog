@@ -14,5 +14,3 @@ fields:
 - type: text
   name: categories
   label: categories
-pages:
-- _posts/2020-11-22-test-post.md
